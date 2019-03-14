@@ -1,0 +1,4 @@
+dist/
+.env
+yalc.lock
+node_modules/
